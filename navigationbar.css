@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+body{font-family:arial;font-size:18px;line-height:20px;}
+#primary_menu{list-style:none;}
+#primary_menu li{float:left;}
+#primary_menu li a{color:#222;font-weight:bold;text-decoration:none;padding: 18px;display: block;}
+#primary_menu li a:hover{background: #6752dd;color:fef8f8;}
+nav#mainNav {
+    width: 100%;
+    background:#f1f1f1;
+    overflow: hidden;
+    border-bottom: 2px solid orange;
+}
+
+#logo img{width: 68px;display:block;}
+menu#menuContainer {
+    display: block;
+    width: 100%;
+    float: left;
+    padding: 9px 0px;
+}
+
+.displayStyle{width:1170px;margin:auto;overflow:hidden;padding: 10px;}
+.rightContent{float:right;display:block;}
+.leftContent{width:300px;float:left;display:block;}

@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+section#firstSection {
+    width: 1170px;
+    overflow: hidden;
+    display: inline;
+}
+#navigationBar{
+    background-color: #333;
+    font-weight: bold;
+}
+#firstMenu{}
+#divitionFirst ul li a{list-style:none;text-decoration:none;color: white;}
+div#divitionFirst ul li {
+    list-style: none;
+    display: table-cell;
+    line-height: 26px;
+    padding: 26px;
+	 border-right:1px solid #bbb;
+	 text-align:center;
+	 float:
+}
+#divitionFirst ul li span{background: #63c063;padding: 30px;line-height:26px;}
+div#divitionFirst ul li:hover {background:#111;}
+
